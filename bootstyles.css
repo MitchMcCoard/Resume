@@ -1,0 +1,50 @@
+/*Mitchell McCoard, 4/16/21*/
+.navd{
+    left: 5px;
+    right: 5px;
+    height: 30px;
+    top: 5px;
+    position: absolute;  
+}
+.tableau{
+   
+    padding-left: 100px;
+    top: 30px;
+    width: auto;
+    left: 5px;
+    padding-bottom: 100px;
+}
+
+.footer{
+    left: 5px;
+    right: 5px;
+    height: 30px;
+    position: absolute;  
+    bottom: 5px;
+    position: fixed;
+}
+
+.text-custom{
+    color: azure;
+    font-family: 'Raleway';
+    text-align: center;
+}
+
+.left{
+    color: azure;
+    font-family: 'Raleway';
+    text-align: left;
+}
+
+.ABTMEbg{
+    background-image: url(../Images/red_wood.jpg);
+}
+
+
+
+.navtxt{
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: justify;
+  
+}

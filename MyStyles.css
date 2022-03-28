@@ -1,0 +1,66 @@
+/*Mitchell McCoard, 4/16/21*/
+.italics{
+    font-style: italic;
+}
+.bold{
+    font-weight: bold;
+}
+body{
+    background-image: url(../Images/Mbg3.5.jpg);
+}
+.ABTMEbg{
+    background-image: url(../Images/red_wood.jpg);
+}
+
+#mainNav {
+    background-color: #251101ea;
+}
+#mainNav .navbar-nav .nav-item.active .nav-link:hover {
+    color: #e3f3ffcc;
+    
+  }
+  #mainNav .navbar-nav .nav-item.active .nav-link {
+    color: #6ebdfacc;
+  }
+.brown{
+    color: #251101ea;
+}
+.footcolor{
+    background-color: #251101ea;
+
+}
+.blue{
+    color: #6ebdfacc;
+}
+#mainNav .navbar-brand {
+    color:  #6ebdfacc;
+  }
+  .text-primary {
+    color: #251101ea !important;
+  }
+  .cta{
+      background-color: #251101ea;
+  }
+  .btn-primary {
+    background-color: #251101ea;
+    border-color: #251101;
+}
+.btn-primary:hover{
+    
+    background-color:  #6ebdfae7;
+    border-color: #251101;
+}
+
+
+.video{
+    text-align: center;
+    margin: auto;
+    
+}
+
+.anch{
+    font-weight: bold;
+    color: black;
+    font-style: italic;
+}
+
